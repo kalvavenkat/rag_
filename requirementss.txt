@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langserve
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+
+google-generativeai
+faiss-cpu
+
+pydantic
+python-dotenv
+sse-starlette
